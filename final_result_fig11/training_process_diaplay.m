@@ -32,8 +32,7 @@ grid on;
 xlabel('Step')
 ylabel('Latency (s)')
 
-% legend('Local-0.9','No RIS-0.9','Aided by RIS-0.9','Aided by RIS-1.5','Aided by RIS-1.9','Aided by RIS-2.1')
-legend('Aided by RIS-0.9','Aided by RIS-1.5','Aided by RIS-1.9','Aided by RIS-2.1','Without RIS-0.9','Aided by RIS,Random-0.9','Local-0.9')
+legend('Aided by RIS-0.9','Aided by RIS-1.5','Aided by RIS-1.9','Aided by RIS-2.1','Without RIS-0.9','Aided by RIS,Random-0.9')
 
 
 
